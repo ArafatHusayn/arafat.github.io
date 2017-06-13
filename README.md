@@ -1,2 +1,2 @@
-# arafat.github.io
-Arafat Husayn's personal blog
+# Arafat Husayn's personal website
+Visit: (https://arafat.github.io)
